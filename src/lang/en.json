@@ -1,0 +1,41 @@
+{
+  "welcome": "Welcome to my ",
+  "portfolio": "Portfolio",
+  "intro": "Hi, I'm Eduardo, Full-stack Developer. This is my portfolio where I showcase my projects and services.",
+  "download": "Download",
+  "experience": "Experience",
+  "languagesTechnologies": "Languages & Technologies",
+  "works": [
+    {
+      "id": 1,
+      "title": "Development in Python, Java, C++",
+      "items": "5 years.",
+      "details": "I have experience in developing applications using Python, Java, and C++. I have worked on projects ranging from simple scripts to more complex applications."
+    },
+    {
+      "id": 2,
+      "title": "Web Development",
+      "items": "5 years.",
+      "details": "I am proficient in full-stack web development, with skills ranging from creating attractive and highly functional web pages and landing pages. My experience in HTML, CSS, and JavaScript is complemented by a mastery of popular libraries and frameworks such as React and Django."
+    },
+    {
+      "id": 3,
+      "title": "Desktop Application Development",
+      "items": "5 years.",
+      "details": "In addition to web development, I also have experience in desktop application development using Tkinter in Python. I have created applications with graphical user interfaces (GUI) and (CRUD) with DB for various needs."
+    },
+    {
+      "id": 4,
+      "title": "Database Development",
+      "items": "5 years.",
+      "details": "With solid experience in databases like MySQL, SQLite, etc., I am able to create reliable and efficient data storage systems. From web applications to business solutions, my knowledge in databases ensures optimal information management in every project."
+    }
+  ],
+  "lastProjects":"Last projects",
+  "viewBoton" : "View",
+  "ContactTitle": "Contact",
+  "ContactName":"Name",
+  "ContactEmail":"Email",
+  "ContactMessage":"Menssage",
+  "ContactButton":"Send"
+}

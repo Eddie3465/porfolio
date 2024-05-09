@@ -1,0 +1,41 @@
+{
+  "welcome": "Bienvenido a mi",
+  "portfolio": " Portfolio",
+  "intro": "Hola, Soy Eduardo, Programador Full-stack. Este es mi portfolio donde presento mis proyectos y servicios.",
+  "download": "Descargar",
+  "experience": "Experiencia",
+  "languagesTechnologies": "Idiomas y Tecnologías",
+  "works": [
+    {
+      "id": 1,
+      "title": "Desarrollo en Python, Java, C++",
+      "items": "5 años.",
+      "details": "Tengo experiencia en el desarrollo de aplicaciones utilizando Python, Java y C++. He trabajado en proyectos que abarcan desde scripts simples hasta aplicaciones más complejas."
+    },
+    {
+      "id": 2,
+      "title": "Desarrollo web",
+      "items": "5 años.",
+      "details": "Soy competente en el desarrollo web fullstack, con habilidades que abarcan la creación de páginas web y landing pages atractivas y altamente funcionales. Mi experiencia en HTML, CSS y JavaScript se complementa con un dominio de bibliotecas y frameworks populares como React y Django."
+    },
+    {
+      "id": 3,
+      "title": "Desarrollo de aplicaciones de escritorio",
+      "items": "5 años.",
+      "details": "Además del desarrollo web, también tengo experiencia en el desarrollo de aplicaciones de escritorio utilizando Tkinter en Python. He creado aplicaciones con interfaces gráficas de usuario (GUI) y (CRUD) con BD para diversas necesidades."
+    },
+    {
+      "id": 4,
+      "title": "Desarrollo de Bases de Datos",
+      "items": "5 años.",
+      "details": "Con sólida experiencia en bases de datos como MySQL, SQLite, etc, soy capaz de crear sistemas de almacenamiento de datos confiables y eficientes. Desde aplicaciones web hasta soluciones empresariales, mi conocimiento en bases de datos garantiza una gestión óptima de la información en cada proyecto."
+    }
+  ],
+  "lastProjects":"Últimos proyectos",
+  "viewBoton" : "Ver",
+  "ContactTitle": "Contacto",
+  "ContactName":"Nombre Completo",
+  "ContactEmail":"Correo Electrónico",
+  "ContactMessage":"Mensaje",
+  "ContactButton":"Enviar"
+}
